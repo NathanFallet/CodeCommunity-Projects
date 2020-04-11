@@ -34,6 +34,7 @@ To be listed, edit the Projects section in this file, adding your project's name
 | Project name | Author | Links |
 |--------------|--------|-------|
 | Delta: Math helper | [@nathanfallet](https://instagram.com/nathanfallet) | [App Store](https://apps.apple.com/app/delta-math-helper/id1436506800), [Play Store](https://play.google.com/store/apps/details?id=fr.zabricraft.delta) |
+| TimeCrunch: School Planner | [@lzctrl](https://instagram.com/lzctrl) | [App Store](https://apps.apple.com/app/timecrunch/id1485810060)|
 
 ### Entertainment
 
@@ -111,6 +112,7 @@ To be listed, edit the Projects section in this file, adding your project's name
 | Project name | Author | Links |
 |--------------|--------|-------|
 | Domorrow | [@bernatcodes](https://instagram.com/bernatcodes) | [App Store](https://apps.apple.com/app/domorrow-to-do-list-tasks/id1506158727) |
+| Habite | [@lzctrl](https://instagram.com/lzctrl) | [App Store](https://apps.apple.com/app/habite/id1438646615)|
 
 ### Reference
 
