@@ -9,5 +9,7 @@ To be listed, edit the Projects section in this file, adding your project's name
 
 # Projects
 
-| Project name | Author |
-|--------------|--------|
+| Project name | Author | Links |
+|--------------|--------|-------|
+| Domorrow | [@bernatcodes](https://instagram.com/bernatcodes) | [App Store](https://apps.apple.com/app/domorrow-to-do-list-tasks/id1506158727) |
+| Tic TAI Toe | [@nathanfallet](https://instagram.com/nathanfallet) | [App Store](https://apps.apple.com/app/tic-tai-toe/id1459186328), [Play Store](https://play.google.com/store/apps/details?id=me.nathanfallet.morpiontpe) |
