@@ -55,9 +55,9 @@ To be listed, edit the Projects section in this file, adding your project's name
 
 | Project name | Author | Links |
 |--------------|--------|-------|
-| Tic TAI Toe | [@nathanfallet](https://instagram.com/nathanfallet) | [App Store](https://apps.apple.com/app/tic-tai-toe/id1459186328), [Play Store](https://play.google.com/store/apps/details?id=me.nathanfallet.morpiontpe) |
 | And yet it hurt (Translate) | [@protivogaser](https://www.instagram.com/protivogaser) | [GitHub](https://github.com/LencoDigitexer/and-yet-it-hurt) |
 | Console Tamagochi Cat | [@protivogaser](https://www.instagram.com/protivogaser) | [GitHub](https://github.com/LencoDigitexer/TamagochiCat) |
+| Tic TAI Toe | [@nathanfallet](https://instagram.com/nathanfallet) | [App Store](https://apps.apple.com/app/tic-tai-toe/id1459186328), [Play Store](https://play.google.com/store/apps/details?id=me.nathanfallet.morpiontpe) |
 
 ### Graphics & design
 
